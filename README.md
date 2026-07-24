@@ -1,3 +1,12 @@
+
+<img width="1440" height="898" alt="Screen Shot 2026-07-23 at 6 38 49 PM" src="https://github.com/user-attachments/assets/b165a99b-41f7-41ab-a770-717ea8954a63" />
+<img width="1440" height="898" alt="Screen Shot 2026-07-23 at 6 39 04 PM" src="https://github.com/user-attachments/assets/6670daed-4646-47c7-90c6-7c92b440c338" />
+
+<img width="1440" height="898" alt="Screen Shot 2026-07-23 at 6 39 43 PM" src="https://github.com/user-attachments/assets/42ccb251-6ac2-4dff-af95-a4367f0c0d83" />
+
+<img width="1440" height="898" alt="Screen Shot 2026-07-23 at 6 40 06 PM" src="https://github.com/user-attachments/assets/8289c9ce-56da-4728-aa63-e9e7f9d5871d" />
+<img width="1440" height="898" alt="Screen Shot 2026-07-23 at 6 40 44 PM" src="https://github.com/user-attachments/assets/ac6f3f71-de02-46d3-8f3a-06c3eff1e71d" />
+
 # GPU-Accelerated Satellite Image Processing Pipeline
 
 A high-performance hybrid Computer Vision pipeline written in native C++/CUDA and OpenMP, explicitly bound to PyTorch using PyBind11. Designed to showcase a massive performance speedup when offloading compute-heavy image transformations from parallelized CPU threads directly to dedicated GPU vector cores.
